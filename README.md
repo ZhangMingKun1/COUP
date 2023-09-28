@@ -1,6 +1,5 @@
-# COUP
-Implementation code for paper "Classifier-Confidence Guided Adversarial Purification with Diffusion Models"
-# CLASSIFIER GUIDANCE ENHANCES DIFFUSION-BASED ADVERSARIAL PURIFICATION BY PRESERVING PREDICTIVE INFORMATION
+# Classifier-cOnfidence gUided Purification (COUP)
+Implementation code for the paper "Classifier Guidance Enhances Diffusion-based Adversarial Purification by Preserving Predictive Information"
 
 ![GitHub set up](https://github.com/ZhangMingKun1/COUP/blob/main/asserts/fig_COUP.png "Main Idea of COUP")
 </center> <!--结束居中对齐-->
