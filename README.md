@@ -1,5 +1,5 @@
 # Classifier-cOnfidence gUided Purification (COUP)
-Implementation code for the paper "Classifier Guidance Enhances Diffusion-based Adversarial Purification by Preserving Predictive Information"
+Implementation code for the paper "[Classifier Guidance Enhances Diffusion-based Adversarial Purification by Preserving Predictive Information](https://arxiv.org/abs/2408.05900v1)", accepted by ECAI 2024.
 
 ![GitHub set up](https://github.com/ZhangMingKun1/COUP/blob/main/asserts/fig_COUP.png "Main Idea of COUP")
 </center> <!--结束居中对齐-->
